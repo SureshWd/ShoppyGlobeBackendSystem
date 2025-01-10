@@ -18,7 +18,7 @@ This assignment evaluates the basic knowledge gained in Node.js and Express.js f
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/SureshWd/ShopyGlobeBackendSystem.git
+   git clone https://github.com/SureshWd/ShoppyGlobeBackendSystem.git
    
 2. Install the dependencies:
    - node js
